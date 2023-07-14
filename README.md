@@ -33,7 +33,7 @@ php artisan key:generate
 ```sh
 php artisan migrate
 ```
-6. Запустите WebSockets сервер:
+6. Запустите [WebSockets](https://beyondco.de/docs/laravel-websockets/getting-started/introduction) сервер:
 ```sh
 php artisan websockets:serve
 ```
